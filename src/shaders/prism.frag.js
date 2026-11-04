@@ -39,3 +39,4 @@ void main() {
   normalOut = vec4(n, fade); // post.frag.js fades outlines and AO with it
 }
 `;
+
